@@ -8,9 +8,10 @@ I use these (opinionated) setup scripts to automate the configuration of my deve
 
 Before following the Quickstart guide, I would recommend that you fork this project and tweak it in a few places (for example, your Git identity settings are not the same as mine) and peruse the scripts to ensure you are comfortable with what they do.
 
-1. Select 'Clone to Desktop' from the Github [page](https://github.com/dghubble/osx-setup).
+1. Select 'Download Zip' from the Github [page](https://github.com/dghubble/osx-setup). 
+2. Double click to unzip the zip file 'osx-setup-master.zip'. 
 2. Install XCode Command Line Tools from [Apple](https://connect.apple.com).
-2. cd ~/Desktop/osx-setup
+2. cd ~/Downloads/osx-setup-master
 3. bash ./bootstrap.sh
 4. Manually perform the tasks listed in osx-setup/manual.txt 
 
