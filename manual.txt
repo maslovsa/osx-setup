@@ -1,0 +1,7 @@
+
+
+Things to set up manually:
+
+Dropbox
+SSH Keys
+GUI settings tweaking
