@@ -18,3 +18,7 @@ brew install vim
 # Install Emacs
 ###############################################################################
 brew install emacs
+
+# Install Intellij Community Edition
+###############################################################################
+brew cask install intellij-community

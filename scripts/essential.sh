@@ -10,6 +10,8 @@ brew install gnu-which
 # Networking
 ###############################################################################
 brew install wget
+brew install curl
+brew install libevent
 brew install openssl
 
 

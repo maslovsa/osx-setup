@@ -28,7 +28,7 @@ bash ${DIR}/scripts/ruby.sh
 bash ${DIR}/scripts/dropbox.sh
 
 # Virtualization
-bash ${DIR}/scripts/vagrant.sh
+bash ${DIR}/scripts/virtualization.sh
 
 # Extras
 bash ${DIR}/scripts/extra.sh
