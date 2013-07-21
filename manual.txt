@@ -30,6 +30,10 @@ Dock Settings -> Minimize windows into application icons.
 
 Settings -> Keyboard Shortcuts -> Tab should move between all controls. This allows you to tab in dailog boxes.
 
+Settings -> General -> Show Scroll Bars set to Always to eliminate problem of not being able to select the last item in a finder window with a number of files and directories.
+
+Beginning of line and end of line shortcuts in iterm 2. iterm2 preferences -> keys -> Add shortcut with Send escape sequence [H (beginning of line) and create another shortcut for [F (end of line). The shortcuts should be command+left arrow and command+right arrow, respectively.
+
 
 System Preferences -> Dock
 Position on Screen: Left

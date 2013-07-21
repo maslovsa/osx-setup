@@ -13,3 +13,8 @@ brew cask install iterm2
 ###############################################################################
 echo -e "\n# Set the default text editor." >> ${HOME}/.bash_profile
 echo "EDITOR='subl -w'" >> ${HOME}/.bash_profile
+
+# Bash Customizations
+###############################################################################
+brew install git bash-completion
+# Installs bash completion scripts to /usr/local/etc/bash_completion.d/
