@@ -26,6 +26,9 @@ Click Text and use the color selectors to set Text, Bold Text, and Cursor to whi
 Terminal -> Preferences -> Advanced
 Uncheck "Audible bell"
 
+Profiles -> General
+Reuse previous sessions's directory.
+
 Dock Settings -> Minimize windows into application icons.
 
 Settings -> Keyboard Shortcuts -> Tab should move between all controls. This allows you to tab in dailog boxes.
@@ -33,6 +36,8 @@ Settings -> Keyboard Shortcuts -> Tab should move between all controls. This all
 Settings -> General -> Show Scroll Bars set to Always to eliminate problem of not being able to select the last item in a finder window with a number of files and directories.
 
 Beginning of line and end of line shortcuts in iterm 2. iterm2 preferences -> keys -> Add shortcut with Send escape sequence [H (beginning of line) and create another shortcut for [F (end of line). The shortcuts should be command+left arrow and command+right arrow, respectively.
+
+iTerm Preferences -> Select Profile and then under terminal, Notifications choose Silence Bell and disable show bell icon in tabs.
 
 
 System Preferences -> Dock

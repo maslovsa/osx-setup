@@ -13,9 +13,11 @@ brew cask install vlc
 brew cask install bitcoin-qt
 brew cask install multibit
 
+# Encryption
+brew cask install true-crypt -y
+
 # Image Media
 ###############################################################################
-brew cask install picasa
 
 # Networking
 ###############################################################################

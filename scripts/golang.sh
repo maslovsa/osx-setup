@@ -17,6 +17,9 @@ mkdir -p ${HOME}/Workspace/go-workspace/bin
 
 # Set environment variable
 echo -e "\n# Set GOPATH environment variable to the Go lang workspace." >> ${HOME}/.bash_profile
-echo "GOPATH=\$HOME/Workspace/go-workspace:\$GOPATH" >> ${HOME}/.bash_profile
+echo "GOPATH=\$HOME/Workspace/go-workspace" >> ${HOME}/.bash_profile
+echo -e "\n# Add the Go Workspace's bin subdirectory to PATH." >> ${HOME}/.bash_profile
+echo "PATH=\$PATH:\$GOPATH/bin" >> ${HOME}/.bash_profile
 # Ensure GOPATH is set for the current shell session.
-export GOPATH=$HOME/Workspace/go-workspace:$GOPATH
+export GOPATH=$HOME/Workspace/go-workspace
+export PATH=$PATH:$GOPATH/bin
