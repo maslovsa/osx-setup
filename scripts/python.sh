@@ -23,11 +23,11 @@ brew install python --framwework
 # virtualenv was installed with, 2.7.x)
 pip install virtualenv
 # Usage
-# virtualenv -- distribute [--python=python3] venv 
+# virtualenv --distribute [--python=python3] venv 
 # source venv/bin/activate
 # deactivate
 
-# Virtualenv 
+# Virtualenv-wrapper
 # Install virtualenvwrapper (pip freeze shows virtualenvwrapper=4.0) for
 # per-project package installations except that virtualenv directories
 # are kept in (~/.virtualenvs) rather than in source code.
