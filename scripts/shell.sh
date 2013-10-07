@@ -12,7 +12,7 @@ brew cask install iterm2
 # Environment Customizations
 ###############################################################################
 echo -e "\n# Set the default text editor." >> ${HOME}/.bash_profile
-echo "EDITOR='subl -w'" >> ${HOME}/.bash_profile
+echo "export EDITOR='subl -w'" >> ${HOME}/.bash_profile
 
 # Bash Customizations
 ###############################################################################

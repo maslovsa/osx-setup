@@ -7,7 +7,7 @@
 
 # Install Eclipse
 ###############################################################################
-# brew cask install Eclipse
+brew cask install Eclipse
 
 # Install Intellij Community Edition
 ###############################################################################
