@@ -11,4 +11,4 @@ brew cask install Eclipse
 
 # Install Intellij Community Edition
 ###############################################################################
-brew cask install intellij-community
+#brew cask install intellij-community

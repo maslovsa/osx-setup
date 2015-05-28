@@ -11,8 +11,8 @@ brew cask install google-hangouts
 
 # Bitcoin
 ###############################################################################
-brew cask install bitcoin-qt
-brew cask install multibit
+#brew cask install bitcoin-qt
+#brew cask install multibit
 
 # Encryption
 brew cask install true-crypt -y
