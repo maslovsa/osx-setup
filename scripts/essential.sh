@@ -14,4 +14,8 @@ brew install curl
 brew install libevent
 brew install openssl
 
+# Cocoapods
+###############################################################################
+brew cask install cocoapods
+
 
